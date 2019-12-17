@@ -1,0 +1,32 @@
+[
+  {
+    'name': 'benchpress'
+  },
+  {
+  'name': 'ball'
+  },
+  {
+    'name': 'rowing machine'
+  },
+  {
+    'name': 'chest press'
+  },
+  {
+    'name': 'bike'
+  },
+  {
+    'name': 'treadmill'
+  },
+  {
+    'name': 'squat rack'
+  },
+  {
+    'name': 'dumbbell'
+  },
+  {
+    'name': 'stair mill'
+  },
+  {
+    'name': 'orbitrek'
+  }
+]
